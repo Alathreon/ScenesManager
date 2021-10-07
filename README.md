@@ -1,0 +1,2 @@
+# ScenesManager
+JavaFX scenes manager.
